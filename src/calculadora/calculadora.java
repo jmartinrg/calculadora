@@ -36,5 +36,31 @@ public class calculadora {
     public calculadora(){
         
     }
+    // GETTERS & SETTERS
+
+    public double getNumero1 (){
+        return this.numero1;
+    }
+     public double getNumero2 (){
+        return this.numero2;
+    }        
+     public String getMarca (){
+        return this.marca;
+    }
+    public String getModelo (){
+        return this.modelo;
+    }
     
+    public void setNumero1 ( double num1){
+        this.numero1=num1;
+    }
+    public void setNumero2 ( double num2){
+        this.numero2=num2;
+    }
+    public void setMarca ( String marca){
+        this.marca=marca;
+    }
+    public void setModelo( String modelo){
+        this.modelo=modelo;
+    }
 }
