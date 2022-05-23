@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author usuario
+ * @author Jorge Martín
  */
 public class calculadora {
         // Atributos de la clase 
