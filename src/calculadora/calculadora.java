@@ -32,10 +32,8 @@ public class calculadora {
         this.marca=marca;
         this.modelo=modelo;
     }
-    // Constructor sobrecargado
-    public calculadora(){
-        
-    }
+ 
+     
     // GETTERS & SETTERS
 
     public double getNumero1 (){
